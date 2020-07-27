@@ -1,2 +1,5 @@
 # hello-world
-Benny's first repository
+
+Hello,
+
+Benb8. I'm here and ready to learn!
